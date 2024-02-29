@@ -1,0 +1,14 @@
+{
+  "name": "schaefel-template-assets",
+  "version": "1.0.0",
+  "description": "Assets do template que será utilizado no projeto InfoSistemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assets"
+  ],
+  "author": "Breno Luiz Schaefel",
+  "license": "ISC"
+}
